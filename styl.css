@@ -1,0 +1,154 @@
+body{
+	padding:0;
+	margin:0;
+	font-family: Arial, Verdana, sans-serif;
+}
+
+#wrapper{
+	width:960px;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+
+#cierna{
+	height:30px;
+	background-color:#000;
+	text-align:right;
+}
+
+#logobg{
+	height:300px;
+	background-image:url("images/bg_top.jpg");
+}
+
+#logo{
+	height: 150px;
+	background-color:#fff;
+	width: 400px;	
+	position:relative;
+	top: 50px;
+}
+
+#logo img{
+	margin-left: 50%;
+	margin-top: 15px;
+}
+
+nav{
+	height:60px;
+	font-size: 24px;
+	background-color:#333333;	
+	color:#fff;
+	text-align:center;
+	padding-top:20px;
+}
+
+nav ul{
+	display:inline;
+}
+
+nav ul li{
+	display:inline;
+	margin-left:20px;
+}
+
+nav ul li a{
+	color:#fff;
+	text-decoration:none;
+	font-family: Arial, Verdana, sans-serif;
+}
+
+nav ul li a:hover{
+	color:#116d46;
+}
+
+section#text{
+	padding:0 20px 0 20px;
+	text-align:center;
+}
+
+#text h1{
+	font-size:36px;
+	font-weight:normal;
+}
+
+#text p{
+	text-align:justify;
+	
+}
+
+hr{
+	width:100px;
+	border:2px solid #ccc;
+}
+
+#les{
+	height:250px;
+	background-image:url("images/bg_mid.jpg");
+}
+
+#tri{
+	text-align:center;
+	padding-top: 20px;
+	padding-bottom:20px;
+}
+
+.clanok{
+	width: 200px;
+	border: 1px solid #000;
+	padding:10px;
+	float:left;
+	margin-left: 50px;
+}
+
+.clanok h2{
+	font-weight:normal;
+}
+.clanok p{
+	text-align:justify;
+	font-size:12px;
+}
+
+.clear{
+	clear:both;
+}
+
+footer{
+	color:#fff;
+	background-color:#3e3e3e;
+	padding:20px;
+	clear:both;
+	margin-top:20px;
+}
+
+.rozdelovnik{
+	width: 230px;
+	float: left;	
+}
+
+#foot_nav ul{
+	list-style-type: none;
+}
+
+#foot_nav ul li a{
+	color:#fff;
+	text-decoration:none;
+}
+
+#foot_nav ul li a:hover{
+	color:#116d46;
+}
+
+#foot_p{
+	font-size:12px;
+}
+
+
+
+
+
+
+
+
+
